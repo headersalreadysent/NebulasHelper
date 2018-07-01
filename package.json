@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"extend": "^3.0.1",
+		"nebulas": "^0.5.2"
+	},
+	"name": "neb-helper",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
